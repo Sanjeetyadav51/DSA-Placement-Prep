@@ -51,5 +51,14 @@ DSA-Placement-Prep
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
