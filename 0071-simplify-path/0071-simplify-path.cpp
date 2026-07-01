@@ -1,7 +1,7 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-        vector<string>st;
+        stack<string>st;
         string curr;
 
         stringstream ss(path);
@@ -10,19 +10,25 @@ public:
 
             if(curr==".."){
                 if(!st.empty())
-                    st.pop_back();
+                    st.pop();
                 }else{
-                    st.push_back(curr);
+                    st.push(curr);
                 }
             
            
            }
          if(st.empty())
             return "/";
+            vector<string>a;
+            while(!st.empty()){
+                   a.push_back(st.top());
+                   st.pop();
+            }
+            reverse(a.begin(),a.end());
            
          string ans;
 
-            for(string dirr:st){
+            for(string dirr:a){
                 ans+="/"+dirr;
             }
         return ans;
