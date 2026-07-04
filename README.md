@@ -82,4 +82,20 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
