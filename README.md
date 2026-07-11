@@ -48,6 +48,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
+| [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -104,4 +105,9 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
+| [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
