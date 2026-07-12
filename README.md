@@ -49,6 +49,7 @@ DSA-Placement-Prep
 | ------- |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
+| [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -71,6 +72,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
+| [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -110,4 +112,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
