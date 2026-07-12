@@ -49,6 +49,7 @@ DSA-Placement-Prep
 | ------- |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
+| [0875-koko-eating-bananas](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -116,4 +117,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
