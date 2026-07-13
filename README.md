@@ -108,6 +108,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0062-unique-paths) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
@@ -121,4 +122,12 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0875-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
