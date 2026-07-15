@@ -126,6 +126,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0062-unique-paths) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
 | ------- |
@@ -134,4 +135,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
