@@ -139,4 +139,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
