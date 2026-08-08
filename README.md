@@ -142,5 +142,6 @@ DSA-Placement-Prep
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
