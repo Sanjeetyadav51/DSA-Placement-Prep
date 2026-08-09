@@ -66,6 +66,7 @@ DSA-Placement-Prep
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -158,4 +159,12 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
