@@ -55,6 +55,7 @@ DSA-Placement-Prep
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
@@ -63,6 +64,7 @@ DSA-Placement-Prep
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 ## Recursion
@@ -152,4 +154,8 @@ DSA-Placement-Prep
 | [1661-average-time-of-process-per-machine](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
