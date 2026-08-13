@@ -60,6 +60,7 @@ DSA-Placement-Prep
 | [0058-length-of-last-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -80,6 +81,7 @@ DSA-Placement-Prep
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
@@ -128,6 +130,7 @@ DSA-Placement-Prep
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
