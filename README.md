@@ -62,6 +62,7 @@ DSA-Placement-Prep
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
@@ -95,6 +96,7 @@ DSA-Placement-Prep
 | ------- |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
+| [1903-largest-odd-number-in-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1903-largest-odd-number-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0062-unique-paths) |
+| [1903-largest-odd-number-in-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
