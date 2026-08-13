@@ -57,6 +57,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
