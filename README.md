@@ -61,6 +61,7 @@ DSA-Placement-Prep
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -82,6 +83,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
@@ -179,8 +181,13 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
