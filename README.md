@@ -47,6 +47,7 @@ DSA-Placement-Prep
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
@@ -56,6 +57,7 @@ DSA-Placement-Prep
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
@@ -190,4 +192,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
