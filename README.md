@@ -80,6 +80,7 @@ DSA-Placement-Prep
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
@@ -196,4 +197,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
