@@ -48,6 +48,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
@@ -85,6 +86,7 @@ DSA-Placement-Prep
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
