@@ -50,6 +50,7 @@ DSA-Placement-Prep
 | [0014-longest-common-prefix](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +102,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
@@ -142,6 +144,7 @@ DSA-Placement-Prep
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
