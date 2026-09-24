@@ -49,6 +49,7 @@ DSA-Placement-Prep
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
@@ -131,6 +132,7 @@ DSA-Placement-Prep
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0062-unique-paths) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
@@ -208,4 +210,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
