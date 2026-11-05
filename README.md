@@ -66,6 +66,7 @@ DSA-Placement-Prep
 | [0058-length-of-last-word](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0394-decode-string) |
@@ -105,6 +106,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 ## Greedy
