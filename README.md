@@ -54,6 +54,7 @@ DSA-Placement-Prep
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0221-maximal-square](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0875-koko-eating-bananas) |
@@ -114,6 +115,7 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0334-increasing-triplet-subsequence) |
 | [0763-partition-labels](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0763-partition-labels) |
 | [1903-largest-odd-number-in-string](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/1903-largest-odd-number-in-string) |
 ## Depth-First Search
@@ -221,4 +223,8 @@ DSA-Placement-Prep
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Sanjeetyadav51/DSA-Placement-Prep/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
